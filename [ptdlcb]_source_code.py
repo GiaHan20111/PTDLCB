@@ -1,4 +1,3 @@
-pip install streamlit pandas numpy matplotlib seaborn gdown scikit-learn imbalanced-learn
 streamlit run app.py
 import pandas as pd
 import numpy as np
